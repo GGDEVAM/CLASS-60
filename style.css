@@ -1,0 +1,26 @@
+body
+{
+background-color: cyan;
+color: crimson;
+text-align: center;
+}
+img
+{
+    transition:transform 2s;
+    
+}
+  img:hover
+{
+transform: scale(0.6);
+     border-style:solid;
+     border-radius:20px;
+     border-color:black;
+     border-width:2px;
+     
+}
+.line
+{
+width: 80px;
+text-align: center;
+
+}
